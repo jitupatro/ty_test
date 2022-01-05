@@ -1,0 +1,3 @@
+again putting to to staging area 
+
+then we will commit it to server
